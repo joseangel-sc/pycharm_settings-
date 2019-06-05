@@ -1,6 +1,7 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="shift alt d" />
+    <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="alt t" />
@@ -14,7 +15,9 @@
     <keyboard-shortcut first-keystroke="meta divide" />
     <keyboard-shortcut first-keystroke="meta alt 7" />
   </action>
+  <action id="Console.TableResult.CompareCells" />
   <action id="Debug" />
+  <action id="Diff.ShowSettingsPopup" />
   <action id="EditorCodeBlockEnd">
     <keyboard-shortcut first-keystroke="alt m" />
   </action>
@@ -33,10 +36,12 @@
   <action id="EditorPreviousWord">
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
+  <action id="EditorToggleCase" />
+  <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="ShowUsages">
-    <keyboard-shortcut first-keystroke="shift u" />
-    <keyboard-shortcut first-keystroke="alt u" />
+    <keyboard-shortcut first-keystroke="shift meta u" />
   </action>
+  <action id="Uml.ShowDiff" />
   <action id="Vcs.UpdateProject" />
   <action id="ViewNavigationBar">
     <keyboard-shortcut first-keystroke="shift n" />
