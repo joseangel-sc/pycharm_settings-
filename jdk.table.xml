@@ -1,0 +1,476 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Remote Python 3.6.8 Docker Compose (app at [/Users/joseangelsc/Documents/Credijusto/dashboards/docker-compose.override.yml])" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.8" />
+      <homePath value="docker-compose://[/Users/joseangelsc/Documents/Credijusto/dashboards/docker-compose.override.yml]:app/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/-1995044479/249573927" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/-1995044479/-337502517" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2019.1/python_stubs/-1995044479" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional DOCKER_ACCOUNT_NAME="Docker" DOCKER_COMPOSE_SERVICE_NAME="app" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="python" HELPERS_PATH="/opt/.pycharm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" SKELETONS_PATH="" VERSION="">
+        <dockerComposeConfigurationPaths>
+          <item value="$USER_HOME$/Documents/Credijusto/dashboards/docker-compose.override.yml" />
+        </dockerComposeConfigurationPaths>
+        <envs />
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/-1995044479/249573927" remote-root="/usr/local/lib/python3.6" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/-1995044479/-337502517" remote-root="/usr/local/lib/python3.6/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.6.8 Docker Compose (app at [/Users/joseangelsc/Documents/Credijusto/risky/docker-compose.yml])" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.8" />
+      <homePath value="docker-compose://[/Users/joseangelsc/Documents/Credijusto/risky/docker-compose.yml]:app/python" />
+      <roots>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional DOCKER_ACCOUNT_NAME="Docker" DOCKER_COMPOSE_SERVICE_NAME="app" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="python" HELPERS_PATH="/opt/.pycharm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" SKELETONS_PATH="" VERSION="">
+        <dockerComposeConfigurationPaths>
+          <item value="$USER_HOME$/Documents/Credijusto/risky/docker-compose.yml" />
+        </dockerComposeConfigurationPaths>
+        <envs />
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/-935711802/249573927" remote-root="/usr/local/lib/python3.6" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/-935711802/-337502517" remote-root="/usr/local/lib/python3.6/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.6.8 Docker Compose (app at [/Users/joseangelsc/Documents/Credijusto/risky/docker-compose.yml]) (2)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.8" />
+      <homePath value="docker-compose://[/Users/joseangelsc/Documents/Credijusto/risky/docker-compose.yml]:app/python" />
+      <roots>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional DOCKER_ACCOUNT_NAME="Docker" DOCKER_COMPOSE_SERVICE_NAME="app" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="python" HELPERS_PATH="/opt/.pycharm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" SKELETONS_PATH="" VERSION="">
+        <dockerComposeConfigurationPaths>
+          <item value="$USER_HOME$/Documents/Credijusto/risky/docker-compose.yml" />
+        </dockerComposeConfigurationPaths>
+        <envs />
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.6.8 Docker Compose (app at [/Users/joseangelsc/Documents/Credijusto/risky/docker-compose.yml]) (3)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.8" />
+      <homePath value="docker-compose://[/Users/joseangelsc/Documents/Credijusto/risky/docker-compose.yml]:app/python" />
+      <roots>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional DOCKER_ACCOUNT_NAME="Docker" DOCKER_COMPOSE_SERVICE_NAME="app" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="python" HELPERS_PATH="/opt/.pycharm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" SKELETONS_PATH="" VERSION="">
+        <dockerComposeConfigurationPaths>
+          <item value="$USER_HOME$/Documents/Credijusto/risky/docker-compose.yml" />
+        </dockerComposeConfigurationPaths>
+        <envs />
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.6.8 Docker (607150767369.dkr.ecr.us-east-1.amazonaws.com/risky:66b8a80)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.8" />
+      <homePath value="docker://607150767369.dkr.ecr.us-east-1.amazonaws.com/risky:66b8a80/python" />
+      <roots>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="607150767369.dkr.ecr.us-east-1.amazonaws.com/risky:66b8a80" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="python" HELPERS_PATH="/opt/.pycharm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" SKELETONS_PATH="" VERSION="" />
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.6.8 Docker Compose (app at [/Users/joseangelsc/Documents/stuff/fourier/docker-compose.yml])" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.8" />
+      <homePath value="docker-compose://[/Users/joseangelsc/Documents/stuff/fourier/docker-compose.yml]:app/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2018.3/remote_sources/-2007341556/249573927" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2018.3/remote_sources/-2007341556/-337502517" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2018.3/python_stubs/-2007341556" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional DOCKER_ACCOUNT_NAME="Docker" DOCKER_COMPOSE_SERVICE_NAME="app" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="python" HELPERS_PATH="/opt/.pycharm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" SKELETONS_PATH="" VERSION="">
+        <dockerComposeConfigurationPaths>
+          <item value="$USER_HOME$/Documents/stuff/fourier/docker-compose.yml" />
+        </dockerComposeConfigurationPaths>
+        <envs />
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2018.3/remote_sources/-2007341556/249573927" remote-root="/usr/local/lib/python3.6" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2018.3/remote_sources/-2007341556/-337502517" remote-root="/usr/local/lib/python3.6/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.6.8 Docker Compose (app at [/Users/joseangelsc/Documents/stuff/fourier/docker-compose.yml]) (2)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.8" />
+      <homePath value="docker-compose://[/Users/joseangelsc/Documents/stuff/fourier/docker-compose.yml]:app/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2018.3/remote_sources/-2007341556/249573927" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2018.3/remote_sources/-2007341556/-337502517" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2018.3/python_stubs/-2007341556" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional DOCKER_ACCOUNT_NAME="Docker" DOCKER_COMPOSE_SERVICE_NAME="app" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="python" HELPERS_PATH="/opt/.pycharm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" SKELETONS_PATH="" VERSION="">
+        <dockerComposeConfigurationPaths>
+          <item value="$USER_HOME$/Documents/stuff/fourier/docker-compose.yml" />
+        </dockerComposeConfigurationPaths>
+        <envs />
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2018.3/remote_sources/-2007341556/249573927" remote-root="/usr/local/lib/python3.6" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2018.3/remote_sources/-2007341556/-337502517" remote-root="/usr/local/lib/python3.6/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.6.8 Docker Compose (app at [/Users/joseangelsc/Documents/Credijusto/zabludovsky/docker-compose.yml])" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.8" />
+      <homePath value="docker-compose://[/Users/joseangelsc/Documents/Credijusto/zabludovsky/docker-compose.yml]:app/python" />
+      <roots>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional DOCKER_ACCOUNT_NAME="Docker" DOCKER_COMPOSE_SERVICE_NAME="app" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="python" HELPERS_PATH="/opt/.pycharm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" SKELETONS_PATH="" VERSION="">
+        <dockerComposeConfigurationPaths>
+          <item value="$USER_HOME$/Documents/Credijusto/zabludovsky/docker-compose.yml" />
+        </dockerComposeConfigurationPaths>
+        <envs />
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.6.8 Docker Compose (app at [/Users/joseangelsc/Documents/Credijusto/zabludovsky/docker-compose.yml]) (2)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.8" />
+      <homePath value="docker-compose://[/Users/joseangelsc/Documents/Credijusto/zabludovsky/docker-compose.yml]:app/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/1243782966/249573927" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/1243782966/-337502517" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2019.1/python_stubs/1243782966" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional DOCKER_ACCOUNT_NAME="Docker" DOCKER_COMPOSE_SERVICE_NAME="app" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="python" HELPERS_PATH="/opt/.pycharm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" SKELETONS_PATH="" VERSION="">
+        <dockerComposeConfigurationPaths>
+          <item value="$USER_HOME$/Documents/Credijusto/zabludovsky/docker-compose.yml" />
+        </dockerComposeConfigurationPaths>
+        <envs />
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/1243782966/249573927" remote-root="/usr/local/lib/python3.6" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/1243782966/-337502517" remote-root="/usr/local/lib/python3.6/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.6.8 Docker Compose (package at [/Users/joseangelsc/Documents/Credijusto/zabludovsky/docker-compose.yml])" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.8" />
+      <homePath value="docker-compose://[/Users/joseangelsc/Documents/Credijusto/zabludovsky/docker-compose.yml]:package/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/1485695857/249573927" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/1485695857/-337502517" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2019.1/python_stubs/1485695857" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional DOCKER_ACCOUNT_NAME="Docker" DOCKER_COMPOSE_SERVICE_NAME="package" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="python" HELPERS_PATH="/opt/.pycharm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" SKELETONS_PATH="" VERSION="">
+        <dockerComposeConfigurationPaths>
+          <item value="$USER_HOME$/Documents/Credijusto/zabludovsky/docker-compose.yml" />
+        </dockerComposeConfigurationPaths>
+        <envs />
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/1485695857/249573927" remote-root="/usr/local/lib/python3.6" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/1485695857/-337502517" remote-root="/usr/local/lib/python3.6/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.6.8 Docker Compose (flower at [/Users/joseangelsc/Documents/Credijusto/FLOW/airflow/docker-compose.yml, /Users/joseangelsc/Documents/Credijusto/FLOW/airflow/docker-compose-CeleryExecutor.override.yml])" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.8" />
+      <homePath value="docker-compose://[/Users/joseangelsc/Documents/Credijusto/FLOW/airflow/docker-compose.yml, /Users/joseangelsc/Documents/Credijusto/FLOW/airflow/docker-compose-CeleryExecutor.override.yml]:flower/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/406135785/249573927" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/406135785/-337502517" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2019.1/python_stubs/406135785" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional DOCKER_ACCOUNT_NAME="Docker" DOCKER_COMPOSE_SERVICE_NAME="flower" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="python" HELPERS_PATH="/opt/.pycharm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" SKELETONS_PATH="" VERSION="">
+        <dockerComposeConfigurationPaths>
+          <item value="$USER_HOME$/Documents/Credijusto/FLOW/airflow/docker-compose.yml" />
+          <item value="$USER_HOME$/Documents/Credijusto/FLOW/airflow/docker-compose-CeleryExecutor.override.yml" />
+        </dockerComposeConfigurationPaths>
+        <envs />
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/406135785/249573927" remote-root="/usr/local/lib/python3.6" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/406135785/-337502517" remote-root="/usr/local/lib/python3.6/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.6.8 Docker Compose (app at [/Users/joseangelsc/Documents/Credijusto/risky/docker-compose.yml]) (4)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.8" />
+      <homePath value="docker-compose://[/Users/joseangelsc/Documents/Credijusto/risky/docker-compose.yml]:app/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/-935711802/249573927" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/-935711802/-337502517" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2019.1/python_stubs/-935711802" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional DOCKER_ACCOUNT_NAME="Docker" DOCKER_COMPOSE_SERVICE_NAME="app" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="python" HELPERS_PATH="/opt/.pycharm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" SKELETONS_PATH="" VERSION="">
+        <dockerComposeConfigurationPaths>
+          <item value="$USER_HOME$/Documents/Credijusto/risky/docker-compose.yml" />
+        </dockerComposeConfigurationPaths>
+        <envs />
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/-935711802/249573927" remote-root="/usr/local/lib/python3.6" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/-935711802/-337502517" remote-root="/usr/local/lib/python3.6/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.3" />
+      <homePath value="/usr/local/bin/python3.7" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/lib/python3.7" type="simple" />
+            <root url="file:///usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" type="simple" />
+            <root url="file:///usr/local/lib/python3.7/site-packages" type="simple" />
+            <root url="file:///usr/local/lib/python3.7/site-packages/tornado-4.5.3-py3.7-macosx-10.14-x86_64.egg" type="simple" />
+            <root url="file:///usr/local/lib/python3.7/site-packages/requests-2.18.4-py3.7.egg" type="simple" />
+            <root url="jar:///usr/local/lib/python3.7/site-packages/portpicker-1.2.0-py3.7.egg!/" type="simple" />
+            <root url="file:///usr/local/lib/python3.7/site-packages/notebook-5.2.2-py3.7.egg" type="simple" />
+            <root url="file:///usr/local/lib/python3.7/site-packages/ipykernel-4.6.1-py3.7.egg" type="simple" />
+            <root url="file:///usr/local/lib/python3.7/site-packages/google_auth-1.4.2-py3.7.egg" type="simple" />
+            <root url="file:///usr/local/lib/python3.7/site-packages/prompt_toolkit-1.0.15-py3.7.egg" type="simple" />
+            <root url="file:///usr/local/lib/python3.7/site-packages/cachetools-3.1.0-py3.7.egg" type="simple" />
+            <root url="file:///usr/local/lib/python3.7/site-packages/pygame-2.0.0.dev1-py3.7-macosx-10.14-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2019.1/python_stubs/-1199943126" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.6.8 Docker Compose (flower at [/Users/joseangelsc/Documents/Credijusto/FLOW/airflow/docker-compose-CeleryExecutor.yml])" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.8" />
+      <homePath value="docker-compose://[/Users/joseangelsc/Documents/Credijusto/FLOW/airflow/docker-compose-CeleryExecutor.yml]:flower/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/-78391463/249573927" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/-78391463/-337502517" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2019.1/python_stubs/-78391463" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional DOCKER_ACCOUNT_NAME="Docker" DOCKER_COMPOSE_SERVICE_NAME="flower" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="python" HELPERS_PATH="/opt/.pycharm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" SKELETONS_PATH="" VERSION="">
+        <dockerComposeConfigurationPaths>
+          <item value="$USER_HOME$/Documents/Credijusto/FLOW/airflow/docker-compose-CeleryExecutor.yml" />
+        </dockerComposeConfigurationPaths>
+        <envs />
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/-78391463/249573927" remote-root="/usr/local/lib/python3.6" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/-78391463/-337502517" remote-root="/usr/local/lib/python3.6/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.6.8 Docker Compose (flower at [/Users/joseangelsc/Documents/Credijusto/FLOW/airflow/docker-compose-CeleryExecutor.override.yml])" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.8" />
+      <homePath value="docker-compose://[/Users/joseangelsc/Documents/Credijusto/FLOW/airflow/docker-compose-CeleryExecutor.override.yml]:flower/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/1984677759/249573927" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/1984677759/-337502517" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2019.1/python_stubs/1984677759" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional DOCKER_ACCOUNT_NAME="Docker" DOCKER_COMPOSE_SERVICE_NAME="flower" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="python" HELPERS_PATH="/opt/.pycharm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" SKELETONS_PATH="" VERSION="">
+        <dockerComposeConfigurationPaths>
+          <item value="$USER_HOME$/Documents/Credijusto/FLOW/airflow/docker-compose-CeleryExecutor.override.yml" />
+        </dockerComposeConfigurationPaths>
+        <envs />
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/1984677759/249573927" remote-root="/usr/local/lib/python3.6" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/1984677759/-337502517" remote-root="/usr/local/lib/python3.6/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+  </component>
+</application>
