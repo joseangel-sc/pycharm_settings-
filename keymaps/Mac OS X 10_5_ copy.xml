@@ -1,4 +1,10 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="shift alt d" />
+  </action>
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
@@ -27,6 +33,17 @@
   <action id="EditorPreviousWord">
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
+  <action id="ShowUsages">
+    <keyboard-shortcut first-keystroke="shift u" />
+    <keyboard-shortcut first-keystroke="alt u" />
+  </action>
   <action id="Vcs.UpdateProject" />
+  <action id="ViewNavigationBar">
+    <keyboard-shortcut first-keystroke="shift n" />
+  </action>
+  <action id="ViewToolButtons">
+    <keyboard-shortcut first-keystroke="shift w" />
+  </action>
   <action id="XDebugger.AttachToProcess" />
+  <action id="hg4idea.QFold" />
 </keymap>
