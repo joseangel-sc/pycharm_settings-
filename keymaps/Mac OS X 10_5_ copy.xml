@@ -4,7 +4,7 @@
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
   <action id="ActivateProjectToolWindow">
-    <keyboard-shortcut first-keystroke="alt t" />
+    <keyboard-shortcut first-keystroke="shift alt t" />
   </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="meta t" />
@@ -51,4 +51,5 @@
   </action>
   <action id="XDebugger.AttachToProcess" />
   <action id="hg4idea.QFold" />
+  <action id="tasks.switch" />
 </keymap>
