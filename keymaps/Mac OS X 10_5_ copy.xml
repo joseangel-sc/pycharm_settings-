@@ -52,12 +52,13 @@
   <action id="Uml.ShowDiff" />
   <action id="Vcs.UpdateProject" />
   <action id="ViewNavigationBar">
-    <keyboard-shortcut first-keystroke="shift n" />
+    <keyboard-shortcut first-keystroke="shift alt n" />
   </action>
   <action id="ViewToolButtons">
     <keyboard-shortcut first-keystroke="shift w" />
   </action>
   <action id="XDebugger.AttachToProcess" />
   <action id="hg4idea.QFold" />
+  <action id="tasks.goto" />
   <action id="tasks.switch" />
 </keymap>
