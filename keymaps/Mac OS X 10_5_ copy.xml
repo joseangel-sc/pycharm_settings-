@@ -1,4 +1,7 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="$LRU">
+    <keyboard-shortcut first-keystroke="meta o" />
+  </action>
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="shift alt d" />
     <keyboard-shortcut first-keystroke="shift meta d" />
@@ -18,6 +21,9 @@
   <action id="Console.TableResult.CompareCells" />
   <action id="Debug" />
   <action id="Diff.ShowSettingsPopup" />
+  <action id="Editor LRU">
+    <keyboard-shortcut first-keystroke="meta o" />
+  </action>
   <action id="EditorCodeBlockEnd">
     <keyboard-shortcut first-keystroke="alt m" />
   </action>
@@ -37,6 +43,8 @@
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
   <action id="EditorToggleCase" />
+  <action id="GotoChangedFile" />
+  <action id="GotoClass" />
   <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="ShowUsages">
     <keyboard-shortcut first-keystroke="shift meta u" />
