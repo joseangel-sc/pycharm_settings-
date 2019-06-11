@@ -55,7 +55,7 @@
     <keyboard-shortcut first-keystroke="shift alt n" />
   </action>
   <action id="ViewToolButtons">
-    <keyboard-shortcut first-keystroke="shift w" />
+    <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
   <action id="XDebugger.AttachToProcess" />
   <action id="hg4idea.QFold" />
