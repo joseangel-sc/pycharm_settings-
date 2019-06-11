@@ -45,9 +45,18 @@
   <action id="EditorToggleCase" />
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
+  <action id="GotoTest" />
+  <action id="Images.ShowThumbnails" />
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
+  <action id="RunDashboard.ShowConfigurations" />
   <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="ShowUsages">
     <keyboard-shortcut first-keystroke="shift meta u" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="shift meta back_slash" />
   </action>
   <action id="Uml.ShowDiff" />
   <action id="Vcs.UpdateProject" />
