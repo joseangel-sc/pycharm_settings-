@@ -43,6 +43,9 @@
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
   <action id="EditorToggleCase" />
+  <action id="EditorToggleShowIndentLines">
+    <keyboard-shortcut first-keystroke="alt i" />
+  </action>
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
   <action id="GotoTest" />
