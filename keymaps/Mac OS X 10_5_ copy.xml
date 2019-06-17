@@ -36,6 +36,12 @@
   <action id="EditorDeleteToWordStart">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
+  <action id="EditorMoveToPageBottom">
+    <keyboard-shortcut first-keystroke="ctrl alt n" />
+  </action>
+  <action id="EditorMoveToPageTop">
+    <keyboard-shortcut first-keystroke="ctrl alt p" />
+  </action>
   <action id="EditorNextWord">
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
@@ -50,6 +56,7 @@
   <action id="GotoClass" />
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
+  <action id="NewElementSamePlace" />
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
