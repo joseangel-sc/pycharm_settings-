@@ -36,17 +36,19 @@
   <action id="EditorDeleteToWordStart">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
-  <action id="EditorMoveToPageBottom">
-    <keyboard-shortcut first-keystroke="ctrl alt n" />
-  </action>
-  <action id="EditorMoveToPageTop">
-    <keyboard-shortcut first-keystroke="ctrl alt p" />
-  </action>
+  <action id="EditorMoveToPageBottom" />
+  <action id="EditorMoveToPageTop" />
   <action id="EditorNextWord">
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
   <action id="EditorPreviousWord">
     <keyboard-shortcut first-keystroke="alt b" />
+  </action>
+  <action id="EditorTextEnd">
+    <keyboard-shortcut first-keystroke="ctrl alt n" />
+  </action>
+  <action id="EditorTextStart">
+    <keyboard-shortcut first-keystroke="ctrl alt p" />
   </action>
   <action id="EditorToggleCase" />
   <action id="EditorToggleShowIndentLines">
