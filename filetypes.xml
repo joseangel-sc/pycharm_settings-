@@ -9,6 +9,7 @@
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="loany_connect" type="PLAIN_TEXT" />
       <mapping pattern="capone_connect" type="PLAIN_TEXT" />
+      <mapping pattern="declaraciones_CIN140619S82" type="PLAIN_TEXT" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping ext="pickle" type="PLAIN_TEXT" />
       <mapping ext="html#" type="PLAIN_TEXT" />
