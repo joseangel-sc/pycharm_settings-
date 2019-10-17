@@ -2,19 +2,9 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping pattern="flask-settings" type="PLAIN_TEXT" />
-      <mapping pattern="2019-02-22.md" type="PLAIN_TEXT" />
-      <mapping pattern=".git/hooks/prepare-commit-msg" type="PLAIN_TEXT" />
-      <mapping pattern="2019-03-22.md" type="PLAIN_TEXT" />
-      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
-      <mapping pattern="loany_connect" type="PLAIN_TEXT" />
-      <mapping pattern="capone_connect" type="PLAIN_TEXT" />
-      <mapping pattern="declaraciones_CIN140619S82" type="PLAIN_TEXT" />
-      <mapping pattern="Makefile" type="PLAIN_TEXT" />
-      <mapping ext="pickle" type="PLAIN_TEXT" />
-      <mapping ext="html#" type="PLAIN_TEXT" />
-      <mapping ext="conf" type="PLAIN_TEXT" />
-      <mapping ext="alfredworkflow" type="PLAIN_TEXT" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="docker-compose" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
