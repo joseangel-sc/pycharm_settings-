@@ -5,6 +5,7 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="docker-compose" type="PLAIN_TEXT" />
+      <mapping pattern="my_envs" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
