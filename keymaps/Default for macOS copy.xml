@@ -8,6 +8,14 @@
     <keyboard-shortcut first-keystroke="alt left" />
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
+  <action id="EditorToggleCase" />
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="shift meta u" />
+  </action>
+  <action id="FindUsagesInFile">
+    <keyboard-shortcut first-keystroke="shift u" />
+  </action>
   <action id="ServiceView.GroupByServiceGroups" />
+  <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="TodoViewGroupByShowPackages" />
 </keymap>
