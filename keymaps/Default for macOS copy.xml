@@ -15,6 +15,10 @@
   <action id="FindUsagesInFile">
     <keyboard-shortcut first-keystroke="shift u" />
   </action>
+  <action id="GotoFile" />
+  <action id="OpenFile">
+    <keyboard-shortcut first-keystroke="shift meta o" />
+  </action>
   <action id="ServiceView.GroupByServiceGroups" />
   <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="TodoViewGroupByShowPackages" />
