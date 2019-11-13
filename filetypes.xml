@@ -5,8 +5,9 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
-      <mapping pattern="test_states_meta.py" type="PLAIN_TEXT" />
+      <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
+      <removed_mapping pattern="test_states_meta.py" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
