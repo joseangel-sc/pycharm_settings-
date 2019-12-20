@@ -23,6 +23,6 @@
   <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="TodoViewGroupByShowPackages" />
   <action id="ToggleDistractionFreeMode">
-    <keyboard-shortcut first-keystroke="shift f" second-keystroke="shift u" />
+    <keyboard-shortcut first-keystroke="meta 4" />
   </action>
 </keymap>
