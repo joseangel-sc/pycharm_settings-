@@ -4,7 +4,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="80">
+        <list size="84">
           <item index="0" class="java.lang.String" itemvalue="six" />
           <item index="1" class="java.lang.String" itemvalue="pytest" />
           <item index="2" class="java.lang.String" itemvalue="atomicwrites" />
@@ -85,6 +85,10 @@
           <item index="77" class="java.lang.String" itemvalue="termcolor" />
           <item index="78" class="java.lang.String" itemvalue="Flask-Migrate" />
           <item index="79" class="java.lang.String" itemvalue="flask-caching" />
+          <item index="80" class="java.lang.String" itemvalue="PyYAML" />
+          <item index="81" class="java.lang.String" itemvalue="crypto" />
+          <item index="82" class="java.lang.String" itemvalue="Naked" />
+          <item index="83" class="java.lang.String" itemvalue="shellescape" />
         </list>
       </value>
     </option>
