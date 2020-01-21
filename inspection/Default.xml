@@ -4,7 +4,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="84">
+        <list size="90">
           <item index="0" class="java.lang.String" itemvalue="six" />
           <item index="1" class="java.lang.String" itemvalue="pytest" />
           <item index="2" class="java.lang.String" itemvalue="atomicwrites" />
@@ -89,6 +89,12 @@
           <item index="81" class="java.lang.String" itemvalue="crypto" />
           <item index="82" class="java.lang.String" itemvalue="Naked" />
           <item index="83" class="java.lang.String" itemvalue="shellescape" />
+          <item index="84" class="java.lang.String" itemvalue="pyarrow" />
+          <item index="85" class="java.lang.String" itemvalue="pandas" />
+          <item index="86" class="java.lang.String" itemvalue="cfenv" />
+          <item index="87" class="java.lang.String" itemvalue="psycopg2-binary" />
+          <item index="88" class="java.lang.String" itemvalue="flask_restful" />
+          <item index="89" class="java.lang.String" itemvalue="moto" />
         </list>
       </value>
     </option>
