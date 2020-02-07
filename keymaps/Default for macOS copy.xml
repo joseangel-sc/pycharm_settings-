@@ -1,4 +1,7 @@
 <keymap version="1" name="Default for macOS copy" parent="Mac OS X 10.5+">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
   <action id="ChangesView.GroupBy.Directory" />
   <action id="EditorNextWord">
     <keyboard-shortcut first-keystroke="alt right" />
@@ -19,6 +22,7 @@
   <action id="OpenFile">
     <keyboard-shortcut first-keystroke="shift meta o" />
   </action>
+  <action id="Refactorings.QuickListPopupAction" />
   <action id="ServiceView.GroupByServiceGroups" />
   <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="TodoViewGroupByShowPackages" />
