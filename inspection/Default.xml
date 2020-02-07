@@ -4,7 +4,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="129">
+        <list size="132">
           <item index="0" class="java.lang.String" itemvalue="six" />
           <item index="1" class="java.lang.String" itemvalue="pytest" />
           <item index="2" class="java.lang.String" itemvalue="atomicwrites" />
@@ -134,6 +134,9 @@
           <item index="126" class="java.lang.String" itemvalue="repoze.lru" />
           <item index="127" class="java.lang.String" itemvalue="jwcrypto" />
           <item index="128" class="java.lang.String" itemvalue="Pillow" />
+          <item index="129" class="java.lang.String" itemvalue="PyHive" />
+          <item index="130" class="java.lang.String" itemvalue="pytz" />
+          <item index="131" class="java.lang.String" itemvalue="jsonschema" />
         </list>
       </value>
     </option>
