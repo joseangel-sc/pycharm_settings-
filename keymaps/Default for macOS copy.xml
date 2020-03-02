@@ -1,6 +1,6 @@
 <keymap version="1" name="Default for macOS copy" parent="Mac OS X 10.5+">
   <action id="ActivateTerminalToolWindow">
-    <keyboard-shortcut first-keystroke="ctrl t" />
+    <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
   <action id="ChangesView.GroupBy.Directory" />
   <action id="EditorNextWord">
@@ -19,10 +19,13 @@
     <keyboard-shortcut first-keystroke="shift ctrl u" />
   </action>
   <action id="GotoFile" />
+  <action id="GotoTest" />
+  <action id="Images.ShowThumbnails" />
   <action id="OpenFile">
     <keyboard-shortcut first-keystroke="shift meta o" />
   </action>
   <action id="Refactorings.QuickListPopupAction" />
+  <action id="RunDashboard.ShowConfigurations" />
   <action id="ServiceView.GroupByServiceGroups" />
   <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="TodoViewGroupByShowPackages" />
