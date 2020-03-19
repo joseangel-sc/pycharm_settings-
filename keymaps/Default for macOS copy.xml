@@ -3,6 +3,10 @@
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
   <action id="ChangesView.GroupBy.Directory" />
+  <action id="EditorDeleteToWordEnd">
+    <keyboard-shortcut first-keystroke="alt delete" />
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
   <action id="EditorNextWord">
     <keyboard-shortcut first-keystroke="alt right" />
     <keyboard-shortcut first-keystroke="alt f" />
