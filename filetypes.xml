@@ -8,6 +8,7 @@
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="PsqlDockerfile" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
+      <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="m3u" type="PLAIN_TEXT" />
       <mapping ext="dekstop" type="PLAIN_TEXT" />
       <removed_mapping pattern="test_states_meta.py" approved="true" type="PLAIN_TEXT" />
