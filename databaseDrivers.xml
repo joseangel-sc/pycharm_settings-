@@ -68,7 +68,7 @@
       <option name="source-loading" value="USER_SOURCES" />
     </driver>
     <driver id="redshift">
-      <artifact name="Redshift" use="true" version="1.2.16.1027" />
+      <artifact name="Redshift" use="true" version="1.2.41.1065" />
       <option name="auto-sync" value="true" />
       <option name="schema-control" value="MANUAL" />
       <option name="auto-commit" value="true" />
