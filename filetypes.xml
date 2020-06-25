@@ -8,6 +8,7 @@
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="mime.types" type="PLAIN_TEXT" />
+      <mapping pattern=".mapbox_token" type="PLAIN_TEXT" />
       <mapping pattern="b726b218302e" type="PLAIN_TEXT" />
       <mapping pattern="PsqlDockerfile" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
