@@ -17,6 +17,9 @@
   </action>
   <action id="EmacsStyleIndent" />
   <action id="ExpandLiveTemplateByTab" />
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="ctrl alt b" />
+  </action>
   <action id="NextParameter" />
   <action id="NextTemplateParameter" />
   <action id="NextTemplateVariable">
