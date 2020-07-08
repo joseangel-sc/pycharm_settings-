@@ -2,26 +2,7 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="test_spencer.py" type="PLAIN_TEXT" />
-      <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
-      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
-      <mapping pattern="mime.types" type="PLAIN_TEXT" />
-      <mapping pattern=".mapbox_token" type="PLAIN_TEXT" />
-      <mapping pattern="b726b218302e" type="PLAIN_TEXT" />
-      <mapping pattern="PsqlDockerfile" type="PLAIN_TEXT" />
-      <mapping pattern="crontab" type="PLAIN_TEXT" />
-      <mapping pattern="a" type="PLAIN_TEXT" />
-      <mapping ext="type" type="PLAIN_TEXT" />
-      <mapping ext="sda" type="PLAIN_TEXT" />
-      <mapping ext="list" type="PLAIN_TEXT" />
-      <mapping ext="service" type="PLAIN_TEXT" />
-      <mapping ext="m3u" type="PLAIN_TEXT" />
-      <mapping ext="types" type="PLAIN_TEXT" />
-      <mapping ext="dekstop" type="PLAIN_TEXT" />
-      <removed_mapping ext="types" approved="true" type="tsconfig" />
-      <removed_mapping pattern="test_states_meta.py" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
