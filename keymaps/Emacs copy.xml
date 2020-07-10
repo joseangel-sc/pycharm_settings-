@@ -3,6 +3,10 @@
     <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
   <action id="BraceOrQuoteOut" />
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="alt semicolon" />
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+  </action>
   <action id="Editor Undo">
     <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
@@ -19,6 +23,12 @@
   <action id="ExpandLiveTemplateByTab" />
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="ctrl alt b" />
+  </action>
+  <action id="Graph.ActualSize">
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+  </action>
+  <action id="Images.Editor.ActualSize">
+    <keyboard-shortcut first-keystroke="ctrl divide" />
   </action>
   <action id="NextParameter" />
   <action id="NextTemplateParameter" />
