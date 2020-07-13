@@ -12,6 +12,10 @@
   </action>
   <action id="EditorChooseLookupItemReplace" />
   <action id="EditorIndentSelection" />
+  <action id="EditorNextWord">
+    <keyboard-shortcut first-keystroke="ctrl right" />
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
   <action id="EditorPageUp">
     <keyboard-shortcut first-keystroke="page_up" />
     <keyboard-shortcut first-keystroke="alt v" />
