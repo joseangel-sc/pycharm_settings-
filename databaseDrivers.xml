@@ -68,6 +68,7 @@
       <option name="source-loading" value="USER_SOURCES" />
     </driver>
     <driver id="redshift">
+      <url-template name="default" template="jdbc:redshift://[{host::server.redshift.amazonaws.com}[:{port::8099}]][/{database}?][\?&lt;&amp;,user={user:param},password={password:param},{:identifier}={:param}&gt;]" />
       <artifact name="Redshift" use="true" version="1.2.41.1065" />
       <option name="auto-sync" value="true" />
       <option name="schema-control" value="MANUAL" />
