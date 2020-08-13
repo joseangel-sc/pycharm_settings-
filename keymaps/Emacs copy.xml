@@ -51,6 +51,7 @@
   <action id="EditorToggleCase" />
   <action id="EmacsStyleIndent" />
   <action id="ExpandLiveTemplateByTab" />
+  <action id="ExternalSystem.ProjectRefreshAction" />
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="alt f7" />
     <keyboard-shortcut first-keystroke="shift alt s" />
@@ -83,6 +84,9 @@
   <action id="NextTemplateVariable">
     <keyboard-shortcut first-keystroke="enter" />
     <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
+  <action id="OpenFile">
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="alt left" />
