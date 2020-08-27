@@ -17,6 +17,16 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
   </action>
+  <action id="CollapseAll">
+    <keyboard-shortcut first-keystroke="ctrl subtract" />
+  </action>
+  <action id="CollapseExpandableComponent">
+    <keyboard-shortcut first-keystroke="shift enter" />
+    <keyboard-shortcut first-keystroke="ctrl subtract" />
+  </action>
+  <action id="CollapseRegion">
+    <keyboard-shortcut first-keystroke="ctrl subtract" />
+  </action>
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="alt semicolon" />
     <keyboard-shortcut first-keystroke="ctrl slash" />
@@ -34,6 +44,12 @@
     <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
   <action id="EditorChooseLookupItemReplace" />
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="ctrl minus" />
+  </action>
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="ctrl equals" />
+  </action>
   <action id="EditorIndentSelection" />
   <action id="EditorKillRegion" />
   <action id="EditorNextWord">
@@ -50,7 +66,20 @@
   </action>
   <action id="EditorToggleCase" />
   <action id="EmacsStyleIndent" />
+  <action id="ExpandAll">
+    <keyboard-shortcut first-keystroke="ctrl add" />
+  </action>
+  <action id="ExpandExpandableComponent">
+    <keyboard-shortcut first-keystroke="shift enter" />
+    <keyboard-shortcut first-keystroke="ctrl add" />
+  </action>
   <action id="ExpandLiveTemplateByTab" />
+  <action id="ExpandRegion">
+    <keyboard-shortcut first-keystroke="ctrl add" />
+  </action>
+  <action id="ExternalSystem.ExpandAll">
+    <keyboard-shortcut first-keystroke="ctrl add" />
+  </action>
   <action id="ExternalSystem.ProjectRefreshAction" />
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="alt f7" />
@@ -69,6 +98,9 @@
   </action>
   <action id="Images.Editor.ActualSize">
     <keyboard-shortcut first-keystroke="ctrl divide" />
+  </action>
+  <action id="Images.Editor.ZoomIn">
+    <keyboard-shortcut first-keystroke="ctrl add" />
   </action>
   <action id="Images.Thumbnails.Hide">
     <keyboard-shortcut first-keystroke="ctrl f4" />
@@ -90,6 +122,9 @@
   </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="alt left" />
+  </action>
+  <action id="ProblemsView.ExpandAll">
+    <keyboard-shortcut first-keystroke="ctrl add" />
   </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="shift ctrl l" />
